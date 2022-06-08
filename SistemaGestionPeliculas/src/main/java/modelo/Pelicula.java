@@ -90,8 +90,13 @@ public class Pelicula {
         this.edad = edad;
     }
     
+    //metodos
     
-            
+    //mostrar una pelicula
     
-    
+    public void mostrarPeli(){
+        
+        System.out.println("Pelicula: " + nombrePelicula + " Director: "+ director + " Genero: " + clasificacion);
+              System.out.println("Ano: " + anio + " Duracion: "+ duracion + " Edad: " + edad);
+    }
 }

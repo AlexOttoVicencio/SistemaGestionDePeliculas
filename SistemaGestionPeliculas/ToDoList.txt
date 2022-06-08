@@ -1,0 +1,4 @@
+Hacer
+public void mostrarPeliculasEnCine() |x|
+public void mostrarPeliculas()|x|
+EP3.2. Se debe hacer un menú para el Sistema ||
